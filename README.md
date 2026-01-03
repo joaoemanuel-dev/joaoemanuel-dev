@@ -30,12 +30,6 @@ Sou apaixonado por tecnologia e gosto de construir soluções bem organizadas, e
 
 ---
 
-## 📈 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact)
-
----
-
 ## 📫 Onde me encontrar
 - LinkedIn: https://www.linkedin.com/in/jo%C3%A3o-emanuel-5b268b22b/
 - Email: pnjoaoemanuel@gmail.com
