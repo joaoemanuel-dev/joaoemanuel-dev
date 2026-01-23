@@ -2,8 +2,6 @@
 
 💻 Desenvolvedor Back-end Java
 
-Sou apaixonado por tecnologia e gosto de construir soluções bem organizadas, escaláveis e fáceis de manter.
-
 ---
 
 ## 🎓 Formação e Experiência
