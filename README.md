@@ -1,77 +1,179 @@
 # Olá, eu sou João Emanuel! 👋
 
-💻 Desenvolvedor Back-End Java em formação
+### 💻 Desenvolvedor Back-End Java | Spring Boot
 
-## Sobre mim
+Sou estudante de **Ciência da Computação na Universidade Federal de São João del-Rei (UFSJ)**, com foco em **desenvolvimento Back-End utilizando Java e Spring Boot**.
 
-Sou estudante de Ciência da Computação na Universidade Federal de São João del-Rei (UFSJ), com foco em desenvolvimento Back-End utilizando Java.
+Atualmente desenvolvo APIs REST aplicando arquitetura em camadas, boas práticas de desenvolvimento, regras de negócio, persistência de dados e testes automatizados.
 
-Atualmente desenvolvo projetos próprios aplicando Programação Orientada a Objetos, modelagem de banco de dados, testes automatizados e boas práticas de desenvolvimento. Tenho experiência acadêmica e prática com Java, SQL, MySQL, JUnit, Mockito, Git e GitHub.
-
-Estou aprofundando meus conhecimentos em JDBC, Spring Boot, APIs REST e arquitetura de software, buscando oportunidades para atuar profissionalmente com desenvolvimento Back-End.
+Meu principal objetivo é continuar evoluindo no ecossistema Java e conquistar uma oportunidade profissional como **Desenvolvedor Back-End Java / Estagiário em Desenvolvimento de Software**.
 
 ---
 
-## 🎓 Formação
+## 🚀 Tecnologias e conhecimentos
 
-* Ciência da Computação – UFSJ (em andamento)
-* Foco em Desenvolvimento Back-End Java
-* Interesse em Arquitetura de Software, APIs REST e Banco de Dados
+### ☕ Java e Back-End
 
----
+- Java 17
+- Spring Boot
+- Spring Web
+- Spring Data JPA
+- Hibernate
+- APIs REST
+- Maven
+- JDBC
+- Programação Orientada a Objetos
 
-## 🚀 Tecnologias e Ferramentas
+### 🏗️ Arquitetura e desenvolvimento
 
-### Linguagens
+- Arquitetura em Camadas
+- Controller / Service / Repository
+- DTOs
+- Bean Validation
+- Tratamento Global de Exceções
+- Regras de Negócio
+- Transações com `@Transactional`
+- Relacionamentos entre entidades
+- Lazy Loading
+- EntityGraph
+- CRUD
+- Injeção de Dependências
 
-* Java
-* SQL
+### 🗄️ Banco de Dados
 
-### Back-End e Banco de Dados
+- PostgreSQL
+- MySQL
+- SQL
+- Modelagem de Banco de Dados
+- JPA / Hibernate
 
-* JDBC
-* MySQL
-* Spring Boot (em aprendizado)
-* Spring Data JPA (em aprendizado)
+### 🧪 Testes e qualidade
 
-### Testes
+- JUnit 5
+- Mockito
+- Testes Unitários
+- Mock de dependências
+- Swagger / OpenAPI
+- Documentação e testes de APIs
 
-* JUnit 5
-* Mockito
+### 🛠️ Ferramentas
 
-### Ferramentas
-
-* Git
-* GitHub
-* Maven
-* IntelliJ IDEA
-* Postman
+- Git
+- GitHub
+- IntelliJ IDEA
+- VS Code
+- Postman
+- DBeaver
+- Maven
+- Jira
 
 ---
 
 ## 📌 Projeto em Destaque
 
-### Maintenance Management System
+### 🔧 Maintenance Management System
 
-Sistema Back-End desenvolvido em Java para gerenciamento de empresas, usuários, equipamentos e manutenções.
+Sistema Back-End desenvolvido para gerenciamento de **empresas, usuários, equipamentos e manutenções**.
 
-Principais conceitos aplicados:
+O projeto começou utilizando **Java, JDBC e MySQL** e posteriormente foi refatorado e migrado para uma arquitetura moderna utilizando **Spring Boot e PostgreSQL**.
 
-* Programação Orientada a Objetos
-* Arquitetura em Camadas
-* CRUD
-* Regras de Negócio
-* JUnit e Mockito
-* Modelagem de Banco de Dados
-* Git e GitHub
+### Principais tecnologias
 
-🔗 Repositório:
+- Java 17
+- Spring Boot
+- Spring Web
+- Spring Data JPA
+- Hibernate
+- PostgreSQL
+- Maven
+- Lombok
+- Bean Validation
+- JUnit 5
+- Mockito
+- Swagger / OpenAPI
+
+### Conceitos aplicados
+
+- API REST
+- Arquitetura em Camadas
+- CRUD
+- DTOs de entrada e saída
+- Validação de dados
+- Regras de negócio
+- Tratamento Global de Exceções
+- Persistência com JPA
+- Relacionamentos entre entidades
+- Lazy Loading e estratégias de carregamento
+- Transações
+- Testes Unitários
+- Documentação da API
+- Versionamento com Git e GitHub
+
+### Arquitetura
+
+```text
+Controller
+    ↓
+Service
+    ↓
+Repository
+    ↓
+PostgreSQL
+```
+
+🔗 **Repositório:**  
 https://github.com/joaoemanuel-dev/maintenance-management-system
+
+---
+
+## 📚 Atualmente estudando
+
+Estou aprofundando meus conhecimentos em:
+
+- Spring Boot e ecossistema Spring
+- Testes automatizados
+- Qualidade de código
+- SonarQube
+- Docker
+- CI/CD
+- Arquitetura de Software
+
+Também pretendo expandir meus conhecimentos para tecnologias de Front-End, principalmente **React**, buscando compreender melhor o desenvolvimento de aplicações completas.
+
+---
+
+## 🎓 Formação
+
+**Bacharelado em Ciência da Computação**  
+Universidade Federal de São João del-Rei — UFSJ
+
+Durante a graduação, venho desenvolvendo conhecimentos em áreas como:
+
+- Engenharia de Software
+- Banco de Dados
+- Estruturas de Dados
+- Algoritmos
+- Sistemas Operacionais
+- Redes de Computadores
+- Inteligência Artificial
+- Arquitetura de Computadores
+- Desenvolvimento de Software
+
+---
+
+## 🎯 Objetivo
+
+Busco uma oportunidade de **estágio ou posição inicial em Desenvolvimento Back-End Java**, onde possa contribuir com desenvolvimento de APIs, regras de negócio, bancos de dados e qualidade de software enquanto continuo evoluindo tecnicamente.
 
 ---
 
 ## 📫 Contato
 
-* LinkedIn: https://www.linkedin.com/in/joão-emanuel-5b268b22b
-* Email: [pnjoaoemanuel@gmail.com](mailto:pnjoaoemanuel@gmail.com)
+💼 **LinkedIn:**  
+https://www.linkedin.com/in/joão-emanuel-5b268b22b
 
+📧 **E-mail:**  
+pnjoaoemanuel@gmail.com
+
+💻 **GitHub:**  
+https://github.com/joaoemanuel-dev
